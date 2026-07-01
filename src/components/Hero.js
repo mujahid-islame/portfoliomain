@@ -260,7 +260,7 @@ const Hero = () => {
               { 
                 icon: LinkedinIcon, 
                 color: "hover:text-primary-container",
-                link: "https://www.linkedin.com/in/mujahid-islame"
+                link: "https://www.linkedin.com/in/mujahid-islam-933a3541a/"
               },
               { 
                 icon: FacebookIcon, 
