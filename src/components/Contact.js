@@ -190,7 +190,7 @@ const Contact = () => {
 
     try {
       const FORMSPREE_URL =
-        "https://formspree.io/f/xojygpdb";
+        "https://formspree.io/f/maqgpgar";
 
       const response = await fetch(FORMSPREE_URL, {
         method: "POST",
@@ -223,8 +223,9 @@ const Contact = () => {
       value: "islamemdmujahid@gmail.com",
       color: "#EA4335",
 
-      link:
-        "https://mail.google.com/mail/?view=cm&fs=1&to=islmaemdmujahid@gmail.com",
+      // link:
+      //   "https://mail.google.com/mail/?view=cm&fs=1&to=islamemdmujahid@gmail.com",
+      link: "mailto:islamemdmujahid@gmail.com",
 
       svgPath:
         "M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z",
@@ -236,7 +237,8 @@ const Contact = () => {
       color: "#3B82F6",
 
       // BEST FIX
-      link: "tel:01321904531",
+      // link: "tel:01321904531",
+      link: "tel:+8801321904531",
 
       svgPath:
         "M20.01 15.38c-1.23 0-2.42-.2-3.53-.56a.977.977 0 00-1.01.24l-2.2 2.2c-2.83-1.44-5.15-3.75-6.59-6.58l2.2-2.21c.28-.27.36-.66.25-1.01A11.36 11.36 0 018.57 4c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1 0 9.39 7.61 17 17 17 .55 0 1-.45 1-1v-3.58c0-.55-.45-1-1-1z",

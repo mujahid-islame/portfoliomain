@@ -32,7 +32,7 @@ const projects = [
     stack: ["React", "Tailwind CSS", "Context API"],
     description: "A sophisticated productivity and task management application focused on helping users organize daily routines, track goals, and maintain high efficiency.",
     live: "https://keenkeeperctv.netlify.app/",
-    github: "https://github.com/mdMUJAHIDsharker/KeenKeeper",
+    github: "https://github.com/mujahid-islame/KeenKeeper",
     features: [
       "Drag-and-drop task management",
       "Real-time progress tracking",
@@ -51,7 +51,7 @@ const projects = [
     stack: ["React", "Tailwind CSS", "React Router"],
     description: "Seamlessly connect clients with legal professionals. Features real-time booking, user authentication, and an intuitive dashboard for managing schedules.",
     live: "https://lawyer-appoinmnet.netlify.app/",
-    github: "https://github.com/mdMUJAHIDsharker/Lawyer-Appointment-Booking-Application",
+    github: "https://github.com/mujahid-islame/Lawyer-Appointment-Booking-Application",
     features: [
       "Real-time appointment scheduling",
       "Secure user authentication",
@@ -70,7 +70,7 @@ const projects = [
     stack: ["React", "Tailwind CSS", "API Integration"],
     description: "Compare the latest flagship smartphones side-by-side with detailed specifications and user reviews to make informed buying decisions.",
     live: "https://flagshipphones.netlify.app/",
-    github: "https://github.com/mdMUJAHIDsharker/FlagshipFaceOff",
+    github: "https://github.com/mujahid-islame/FlagshipFaceOff",
     features: [
       "Side-by-side spec comparison",
       "Dynamic filtering & search",
