@@ -211,7 +211,7 @@ const Hero = () => {
             className="text-slate-500 text-lg md:text-xl leading-relaxed max-w-lg mx-auto lg:mx-0 font-medium"
           >
             A forward-thinking developer specializing in high-performance
-            Next.js architectures and premium user interfaces.
+            Flutter UI & UX architectures and premium user interfaces.
           </motion.p>
 
           <motion.div
